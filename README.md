@@ -15,6 +15,8 @@ NOSHNINJA is an innovative web application designed for seamless food ordering a
 
 // Contributing
 
+// License
+
 # Overview
 NOSHNINJA aims to revolutionize the food industry by combining the convenience of online food ordering with the engaging experience of live telecasting. Users can order from their favorite restaurants and watch live cooking shows, all in one platform.
 
@@ -62,3 +64,7 @@ Commit your changes (git commit -m 'Add some feature').
 Push to the branch (git push origin feature/your-feature).
 
 Open a pull request.
+
+# License
+
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
