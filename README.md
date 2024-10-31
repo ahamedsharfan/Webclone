@@ -50,7 +50,7 @@ npm install
 ## To run NOSHNINJA, use the following command:
 npm start
 
-Visit http://localhost:3000 to view the application in your browser. Explore the features and start ordering and watching!
+Visit http://noshninja.ccbp.tech to view the application in your browser. Explore the features and start ordering and watching!
 
 # Contributing
 We welcome contributions! Please follow these steps:
